@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 MERN Stack developer<br>👯 I’m looking to collaborate on Web App development Projects<br>🌱 I’m currently learning Next.JS<br>⚡ Fun fact - I am lazy but smart
+🔭 MERN Stack developer - Next JS<br>👯 I’m looking to collaborate on Web App development Projects<br>🌱 I’m currently learning Next.JS<br>⚡ Fun fact - I am lazy but smart
 
 
 ## 🌐 Socials:
