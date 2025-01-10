@@ -1,10 +1,7 @@
 <h1 align="center">I'm Adarsh</h1>
 <h3 align="center">FULL STACK DEVELOPER</h3>
 
-
-- 🔭 I’m currently working on **Chat Application(WebRTC)**
-
-- 🌱 I’m currently learning **Data Structures and algorithms**
+- 🌱 I’m currently learning **AI ML**
 
 - 👯 I’m looking to collaborate on **any web based projects**
 
