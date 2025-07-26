@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **web development projects**
 
-- 👨‍💻 All of my projects are available at [adarshs.xyz](adarshs.xyz)
+- 👨‍💻 All of my projects are available at [www.adarshs.xyz](adarshs.xyz)
 
 - 📫 How to reach me **aadarsh04ss@gmail.com**
 
