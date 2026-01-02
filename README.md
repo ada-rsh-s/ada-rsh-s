@@ -13,18 +13,15 @@
 
 ---
 
-### 🌱 About Me
-
 - 🌱 I’m currently learning **AI/ML**
 - 👯 I’m looking to collaborate on **web development projects**
-- 👨‍💻 All of my projects are available at **[adarshs.xyz](https://adarshs.xyz/)**
-- 📫 How to reach me: **aadarsh04ss@gmail.com**
-- ⚡ Fun fact: **Full-stack dev by day, AI dreamer by night**
+- 👨‍💻 All of my projects are available at [adarshs.xyz](https://adarshs.xyz/)
+- 📫 How to reach me **aadarsh04ss@gmail.com**
+- ⚡ Fun fact **Full-stack dev by day, AI dreamer by night**
 
 ---
 
-### 🤝 Connect with Me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/ada-rsh-s" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
@@ -42,8 +39,7 @@
 
 ---
 
-### 🧰 Languages and Tools
-
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
@@ -62,10 +58,10 @@
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ada-rsh-s&show_icons=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ada-rsh-s&layout=compact&show_icons=true" />
 </p>
 
 <p align="center">
@@ -73,4 +69,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ada-rsh-s" />
+</p>
