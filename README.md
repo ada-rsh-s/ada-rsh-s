@@ -17,8 +17,6 @@
 - 👯 I’m looking to collaborate on **web development projects**
 - 👨‍💻 All of my projects are available at [adarshs.xyz](https://adarshs.xyz/)
 - 📫 How to reach me **aadarsh04ss@gmail.com**
-- ⚡ Fun fact **Full-stack dev by day, AI dreamer by night**
-
 ---
 
 <h3 align="left">Connect with me:</h3>
@@ -58,16 +56,15 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="left">📌 Highlights</h3>
+
+- 💻 Full-stack development using MERN & Next.js  
+- 🧠 Actively learning AI/ML and applied systems  
+- 🚀 Built multiple real-world academic and production projects  
+- 🤝 Open to collaboration and meaningful engineering work
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ada-rsh-s&layout=compact&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ada-rsh-s&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ada-rsh-s" />
+  <sub>⚡Full-stack dev by day, AI dreamer by night⚡</sub>
 </p>
